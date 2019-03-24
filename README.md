@@ -1,9 +1,7 @@
-# GarageOOPApplication
-A simple OOP application that represents a garage. 
+# Pyramid Application
 
-In this application, you are able to continue adding cars to garage.
-
-Tags: Object Oriented Programming, Arraylist , Getters, Setters, Constructors.
+This application allows you to draw a pyramid using "*". 
+You are able to change how many rows of stars in the main method.
 
 
 
